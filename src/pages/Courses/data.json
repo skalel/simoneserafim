@@ -1,0 +1,13 @@
+{
+  "courses": [
+    {
+      "id": 0,
+      "title": "Curso de Micropigmentação",
+      "subTitle": "Um curso completo para Micropigmentação",
+      "desc": "",
+      "image": "/media/dummy.jpg",
+      "value": null,
+      "isAvailable": 0
+    }
+  ]
+}
